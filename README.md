@@ -14,7 +14,7 @@
 
 ## 联系方式
 
-Telegram: [@pmzhizhi_bot](https://t.me/pmzhizhi_bot)
+Telegram: [@pmzhizhi_bot]https://t.me/zeus18185
 
 ## 使用方法
 
